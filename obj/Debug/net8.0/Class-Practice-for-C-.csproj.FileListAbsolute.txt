@@ -1,0 +1,14 @@
+C:\Users\13608\Documents\GitHub\Class-Practice-for-C-\bin\Debug\net8.0\Class-Practice-for-C-.exe
+C:\Users\13608\Documents\GitHub\Class-Practice-for-C-\bin\Debug\net8.0\Class-Practice-for-C-.deps.json
+C:\Users\13608\Documents\GitHub\Class-Practice-for-C-\bin\Debug\net8.0\Class-Practice-for-C-.runtimeconfig.json
+C:\Users\13608\Documents\GitHub\Class-Practice-for-C-\bin\Debug\net8.0\Class-Practice-for-C-.dll
+C:\Users\13608\Documents\GitHub\Class-Practice-for-C-\bin\Debug\net8.0\Class-Practice-for-C-.pdb
+C:\Users\13608\Documents\GitHub\Class-Practice-for-C-\obj\Debug\net8.0\Class-Practice-for-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13608\Documents\GitHub\Class-Practice-for-C-\obj\Debug\net8.0\Class-Practice-for-C-.AssemblyInfoInputs.cache
+C:\Users\13608\Documents\GitHub\Class-Practice-for-C-\obj\Debug\net8.0\Class-Practice-for-C-.AssemblyInfo.cs
+C:\Users\13608\Documents\GitHub\Class-Practice-for-C-\obj\Debug\net8.0\Class-Practice-for-C-.csproj.CoreCompileInputs.cache
+C:\Users\13608\Documents\GitHub\Class-Practice-for-C-\obj\Debug\net8.0\Class-Practice-for-C-.dll
+C:\Users\13608\Documents\GitHub\Class-Practice-for-C-\obj\Debug\net8.0\refint\Class-Practice-for-C-.dll
+C:\Users\13608\Documents\GitHub\Class-Practice-for-C-\obj\Debug\net8.0\Class-Practice-for-C-.pdb
+C:\Users\13608\Documents\GitHub\Class-Practice-for-C-\obj\Debug\net8.0\Class-Practice-for-C-.genruntimeconfig.cache
+C:\Users\13608\Documents\GitHub\Class-Practice-for-C-\obj\Debug\net8.0\ref\Class-Practice-for-C-.dll
